@@ -67,7 +67,7 @@ const ResumeData = {
     {
       name: "ARIS Process Mining",
       client: "CDK Global",
-      technologies: "React, Redux, d3.js, HTM5, LESS",
+      technologies: "React, Redux, d3.js, HTM5, LESS, Fluent UI",
       description:
         "ARIS Process Mining Basic provides data analytical reconstruction for a fact-based, flexible visualization of business processes to find bottlenecks and opportunities for improvement. ",
     },
