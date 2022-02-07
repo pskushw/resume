@@ -75,7 +75,7 @@ const ResumeData = {
       name: "WSM NextGen (for CDK Global)",
       client: "CDK Global",
       technologies:
-        "Object Oriented Javascript, NodeJS, Grunt, GIT, LESS, HTML, Angular 2",
+        "NodeJS, Grunt, GIT, LESS, HTML, Angular 2",
       description:
         "This is the next version of Tetra WSM. In NextGen WSM, Each component is a card. NextGen WSM has many designs where dealer can select a design for a website and also it has Card Layout and Card Style were dealer can change the layout of a card by changing the Card Layout and select Card Style to change the look and feel of a card. User can also add, edit and delete card and content from the conguration. My role is to write and test code, doing code-reviews, helping my team of 5 people for any techical or domain specic issues.",
     },
