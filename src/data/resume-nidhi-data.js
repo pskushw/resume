@@ -45,12 +45,13 @@ const ResumeData = {
     "Lodash",
     "HTML5",
     "CSS3",
+    "Less",
+    "Sass",
     "Fluent UI",
     "RESTful web services",
-    "SQL",
-    "Core Java",
     "GIT",
-    "Website Performance",
+    "Webpack",
+    "Website Performance"
   ],
   frameworks: [
     "LESS",
