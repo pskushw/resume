@@ -51,7 +51,8 @@ const ResumeData = {
     "RESTful web services",
     "GIT",
     "Webpack",
-    "Website Performance"
+    "Website Performance",
+    "SQL"
   ],
   frameworks: [
     "LESS",
@@ -120,14 +121,14 @@ const ResumeData = {
     {
       name: "Demantra Hierarchies",
       client: "Apple Inc",
-      technologies: "HTML, CSS3, Angularjs 1.3, Spring MVC, Apache Tomcat",
+      technologies: "HTML, CSS3, EXTJS, Spring MVC, Apache Tomcat",
       description:
         "DEMANTRA refers to the project for developing an user interface for Financial Analysts of Apple Inc., to maintain, monitor and forecast the sales of Apple’s products in market and enable customization of product hierarchy. It is a forecasting tool that enables Apple’s users to keep a track of latest market scenario of Apple. It maintains a hierarchy of Apple’s products.",
     },
     {
       name: "GBI Data Browser",
       client: "Apple Inc",
-      technologies: "HTML, CSS3, Angularjs 1.3, Spring MVC, Apache Tomcat",
+      technologies: "HTML, CSS3, CanJs, Handlebar.js, Spring MVC, Apache Tomcat",
       description:
         "It’s a project for developing a Reporting tool for Financial Analysts of Apple Inc. used for generating reports upon existing metadata in EDW.",
     },
