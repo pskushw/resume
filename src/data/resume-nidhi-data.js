@@ -139,7 +139,7 @@ const ResumeData = {
       startDate: "January 2018",
       endDate: "Present",
       responsibilities:
-        "At Software AG, I am working on ARIS Mashzone (B2B) product. We follow agile process. My responsibilities are gathering requirements from the Product Management team, refining features, writing functional specifications, writing and reviewing code for the new features and leading my team of 6 members"
+        "At Software AG, I am working on ARIS Mashzone (B2B) product. We follow agile process. My responsibilities are gathering requirements from the Product Management team, refining features, writing functional specifications, writing and reviewing code for the new features and leading my team of 6 members."
     },
     {
       company: "Ness Technolgoies",
