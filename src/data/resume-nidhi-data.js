@@ -52,19 +52,18 @@ const ResumeData = {
     "GIT",
     "Webpack",
     "Website Performance",
-    "SQL"
   ],
-  frameworks: [
-    "LESS",
-    "jQuery",
-    "Underscore.js",
-    "Handlebar.js",
-    "RequireJS",
-    "Jasmine",
-    "Twitter Bootstrap",
-    "JSON",
-    "GoogleMapAPI",
-  ],
+  // frameworks: [
+  //   "LESS",
+  //   "jQuery",
+  //   "Underscore.js",
+  //   "Handlebar.js",
+  //   "RequireJS",
+  //   "Jasmine",
+  //   "Twitter Bootstrap",
+  //   "JSON",
+  //   "GoogleMapAPI",
+  // ],
   projects: [
     {
       name: "ARIS Process Mining",
@@ -76,8 +75,7 @@ const ResumeData = {
     {
       name: "WSM NextGen (for CDK Global)",
       client: "CDK Global",
-      technologies:
-        "NodeJS, Grunt, GIT, LESS, HTML, Angular 2",
+      technologies: "NodeJS, Grunt, GIT, LESS, HTML, Angular 2",
       description:
         "This is the next version of Tetra WSM. In NextGen WSM, Each component is a card. NextGen WSM has many designs where dealer can select a design for a website and also it has Card Layout and Card Style were dealer can change the layout of a card by changing the Card Layout and select Card Style to change the look and feel of a card. User can also add, edit and delete card and content from the conguration. My role is to write and test code, doing code-reviews, helping my team of 5 people for any techical or domain specic issues.",
     },
@@ -128,7 +126,8 @@ const ResumeData = {
     {
       name: "GBI Data Browser",
       client: "Apple Inc",
-      technologies: "HTML, CSS3, CanJs, Handlebar.js, Spring MVC, Apache Tomcat",
+      technologies:
+        "HTML, CSS3, CanJs, Handlebar.js, Spring MVC, Apache Tomcat",
       description:
         "It’s a project for developing a Reporting tool for Financial Analysts of Apple Inc. used for generating reports upon existing metadata in EDW.",
     },
@@ -140,7 +139,7 @@ const ResumeData = {
       startDate: "January 2018",
       endDate: "Present",
       responsibilities:
-        "At Software AG I worked for ARIS Mashzone (B2B) product. My responsiblities to write code for the new features and also helping my team if they stuck in any technical challanges.",
+        "At Software AG I worked for ARIS Mashzone (B2B) product. My responsiblities are requirement gathering from product management team, refining features, write functional specfication, review code, write code for the new features and leading team of 6 members",
     },
     {
       company: "Ness Technolgoies",
