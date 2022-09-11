@@ -1,12 +1,15 @@
 const ResumeData = {
   name: "Priyanka Singh Kushwaha",
-  title: "Frontend Developer - Senior Software Engineer",
+  title: "Lead Engineer - Fullstack",
   email: "nidhibsp.singh@gmail.com",
   phoneNumber: "+91 7899433480",
   objective:
     "To make high-quality, exciting, and fun web and mobile applications that are challenging, provide opportunities to learn new technologies, and allow me to work with other highly motivated and talented developers.",
+  // aboutme:
+  //   "I’m an enthusiastic and pro-active Web Developer with expertise in designing and developing websites and web applications who makes easy to use websites and applications by discovering how users really think.",
+  
   aboutme:
-    "I’m an enthusiastic and pro-active Web Developer with expertise in designing and developing websites and web applications who makes easy to use websites and applications by discovering how users really think.",
+  "Have 10+ Years of professional experience in the Software industry including Design, Programming and Application Development in Javascript technologies. Have 4+ year of experience leading and mentoring team.",
   github: "https://github.com/pskushw/",
   linkedin: "https://www.linkedin.com/in/priyanka-singh-32874234",
   social: [
@@ -41,6 +44,8 @@ const ResumeData = {
     "Redux",
     // "Angular 2+",
     "Node.js",
+    "Express.js",
+    "Typescript",
     "d3.js",
     "Lodash",
     "HTML5",
@@ -66,8 +71,12 @@ const ResumeData = {
   // ],
   projects: [
     {
+      name: "VTEX Commerce Platform",
+      technologies: "ReactJs, ReduxJs, Node.js, Express.js, Next.js, GraphQL, MongoDB",
+      description: "A complete, connected, and composable platform. Build, manage and deliver advanced B2B, B2C, and Marketplace commerce experiences without the complexity — and with complete flexibility."
+    },
+    {
       name: "ARIS Process Mining",
-      client: "CDK Global",
       technologies: "ReactJs, ReduxJs, d3.js, HTM5, LESS, Fluent UI",
       description:
         "ARIS Process Mining Basic provides data analytical reconstruction for a fact-based, flexible visualization of business processes to find bottlenecks and opportunities for improvement. "
@@ -77,14 +86,14 @@ const ResumeData = {
       client: "CDK Global",
       technologies: "NodeJS, Grunt, GIT, LESS, HTML, Angular 2",
       description:
-        "This is the next version of Tetra WSM. In NextGen WSM, Each component is a card. NextGen WSM has many designs where dealer can select a design for a website and also it has Card Layout and Card Style were dealer can change the layout of a card by changing the Card Layout and select Card Style to change the look and feel of a card. User can also add, edit and delete card and content from the conguration. My role is to write and test code, doing code-reviews, helping my team of 5 people for any techical or domain specific issues."
+        "This is the next version of Tetra WSM. In NextGen WSM, Each component is a card. NextGen WSM has many designs where dealer can select a design for a website and also provide theme to change the look and feel of a card. User can also add, edit and delete card and content from the conguration. My role is to write and test code, doing code-reviews, helping my team of 5 people for any techical or domain specific issues."
     },
     {
       name: "WSM Tetra",
       client: "CDK Global",
       technologies: "Object Oriented Javascript, Jquery, LESS, HTML, GIT",
       description:
-        "A Tool which provide conguration to congure a website. In WSM, each component is a widget where dealer can drag and drop the widget in site and resize the component and publish the website."
+        "A Tool which provide conguration to configure a website. In WSM, each component is a widget where dealer can drag and drop the widget in site and resize the component and publish the website."
     },
     {
       name: "www.alexandermini.com",
@@ -121,7 +130,7 @@ const ResumeData = {
       client: "Apple Inc",
       technologies: "HTML, CSS3, EXTJS, Spring MVC, Apache Tomcat",
       description:
-        "DEMANTRA refers to the project for developing an user interface for Financial Analysts of Apple Inc., to maintain, monitor and forecast the sales of Apple’s products in market and enable customization of product hierarchy. It is a forecasting tool that enables Apple’s users to keep a track of latest market scenario of Apple. It maintains a hierarchy of Apple’s products."
+        "DEMANTRA is the user interface for Financial Analysts of Apple Inc., to maintain, monitor and forecast the sales of Apple’s products in market and enable customization of product hierarchy. It is a forecasting tool that enables Apple’s users to keep a track of latest market scenario of Apple."
     },
     {
       name: "GBI Data Browser",
@@ -134,12 +143,19 @@ const ResumeData = {
   ],
   experience: [
     {
+      company: "Born group",
+      title: "Lead Engineer",
+      startDate: "July 2022",
+      endDate: "Present",
+      responsibilities: "Individual contributor, leading and mentoring team of 8 members."
+    },
+    {
       company: "Software AG",
       title: "Senior Software Engineer",
       startDate: "January 2018",
-      endDate: "Present",
+      endDate: "July 2022",
       responsibilities:
-        "At Software AG, I am working on ARIS Mashzone (B2B) product. We follow agile process. My responsibilities are gathering requirements from the Product Management team, refining features, writing functional specifications, writing and reviewing code for the new features and leading my team of 6 members."
+        "At Software AG, I am working on ARIS Mashzone (B2B) product. We follow agile process. My responsibilities are gathering requirements from the Product Management team, refining features, writing functional specifications, writing and reviewing code for the new features and leading team of 6 members."
     },
     {
       company: "Ness Technolgoies",
